@@ -1,0 +1,9 @@
+смотри вот Адрес
+
+#Minecraft.Windows.exe+3925915 
+#89 30
+
+когда я в Cheat Engine по адресу #Minecraft.Windows.exe+3925915 
+нажимаю "Replace with code that does nothing" = это значит что типо модуль enabled.
+
+а когда "Restore with original code" = это значит что модуль у нас = disabled
